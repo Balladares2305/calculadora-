@@ -1,4 +1,6 @@
 # Calculadora web
+Universidad tecnica de Manabì
+grupo de trabajo # 1
 
 Calculadora web para operaciones matemáticas básicas, desarrollada como proyecto académico con HTML, CSS y JavaScript, sin dependencias externas.
 
@@ -11,7 +13,7 @@ Calculadora web para operaciones matemáticas básicas, desarrollada como proyec
 
 ## Uso
 
-Abre `index.html` en un navegador. No se requiere instalación ni proceso de compilación.
+Abre este link [https://balladares2305.github.io/calculadora-/] en un navegador. No se requiere instalación ni proceso de compilación, automaticamete se despliegara una calculadora completamente funional
 
 También puedes usar el teclado:
 
@@ -21,17 +23,3 @@ También puedes usar el teclado:
 - `Enter` o `=` para calcular.
 - `Backspace` para borrar el último dígito.
 - `Escape` o `Delete` para limpiar.
-
-## Publicación en GitHub Pages
-
-El flujo de GitHub Actions de este repositorio publica el sitio automáticamente
-cada vez que se actualiza la rama `main`. Para activarlo:
-
-1. Sube el proyecto a GitHub.
-2. En el repositorio, abre **Settings > Pages**.
-3. En **Build and deployment**, selecciona **GitHub Actions** como fuente.
-4. Después de cada publicación, encontrarás el enlace en **Actions** o en
-   **Settings > Pages**.
-
-También puedes iniciar una publicación manual desde **Actions > Deploy static
-site to GitHub Pages > Run workflow**.
