@@ -21,3 +21,17 @@ También puedes usar el teclado:
 - `Enter` o `=` para calcular.
 - `Backspace` para borrar el último dígito.
 - `Escape` o `Delete` para limpiar.
+
+## Publicación en GitHub Pages
+
+El flujo de GitHub Actions de este repositorio publica el sitio automáticamente
+cada vez que se actualiza la rama `main`. Para activarlo:
+
+1. Sube el proyecto a GitHub.
+2. En el repositorio, abre **Settings > Pages**.
+3. En **Build and deployment**, selecciona **GitHub Actions** como fuente.
+4. Después de cada publicación, encontrarás el enlace en **Actions** o en
+   **Settings > Pages**.
+
+También puedes iniciar una publicación manual desde **Actions > Deploy static
+site to GitHub Pages > Run workflow**.
